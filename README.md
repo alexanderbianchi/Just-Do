@@ -9,7 +9,7 @@ Postgres SQL database
 React.JS Frontend
 Bootstrap CSS
 
-##Features
+## Features
 
 Sorting of to-do list by date,category,priority,or day of the week. Editing and deletion of tasks.
 Encrypted user authentication system
